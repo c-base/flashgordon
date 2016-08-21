@@ -1,4 +1,4 @@
-update=2016-05-28T13:42:06 CEST
+update=So 21 Aug 2016 03:41:54 CEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,3 +59,4 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=flashgordon
+LibName31=lib/spi-clip
