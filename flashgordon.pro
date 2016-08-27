@@ -1,4 +1,4 @@
-update=So 21 Aug 2016 03:41:54 CEST
+update=Sun Aug 28 00:27:04 2016
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,8 +23,6 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
-[general]
-version=1
 [eeschema]
 version=1
 LibDir=
@@ -60,3 +58,6 @@ LibName28=contrib
 LibName29=valves
 LibName30=flashgordon
 LibName31=lib/spi-clip
+LibName32=dc-dc
+[general]
+version=1
